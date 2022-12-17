@@ -8,14 +8,7 @@ body{
     display: flex;
     justify-content: center;
 }
-.product{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-    background-color:white;
-    margin-top: 30vh;
-}
+
 figure{
     width: 500px;
     height: 400px;

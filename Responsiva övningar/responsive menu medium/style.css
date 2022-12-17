@@ -49,7 +49,7 @@ body{
     .flex-nav .items ul{
         display: flex;
         flex-wrap: wrap;
-        justify-content: center;
+        justify-content: space-around;
     }
     .flex-nav .items ul li{
         width: 250px;
